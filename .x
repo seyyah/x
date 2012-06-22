@@ -6,7 +6,7 @@
 #
 # 	man 19-x
 
-X_EMAIL=''
+X_EMAIL='seyyah@bil.omu.edu.tr'
 X_NAME='Nurettin Şenyer'
 
 . ${X_HOME:=$HOME}/lib/x

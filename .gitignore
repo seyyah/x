@@ -16,6 +16,7 @@
 !/.irbrc
 !/.lbdbrc
 !/lib
+!/.local
 !/.mc
 !/.muttrc
 !/.offlineimap.py

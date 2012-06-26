@@ -3,7 +3,15 @@
 screenshot='screenshot';
 nano=`date '+%d-%m-%y-%N'`;
 extension='.png';
-file="$HOME/Desktop/$screenshot-$nano$extension";
+image_directory="$HOME/Desktop";
+
+if [ ! -d $image_directory ]
+then
+	echo $image_directory yok o yuzden /tmp aliniyor...
+	image_directory="/tmp";
+fi
+
+file="$image_directory/$screenshot-$nano$extension";
 
 sleep 3; scrot -s -b -q 0 $file;
 

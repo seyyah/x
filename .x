@@ -8,6 +8,7 @@
 
 X_EMAIL='seyyah@bil.omu.edu.tr'
 X_NAME='Nurettin Şenyer'
+X_SHELL=
 
 . ${X_HOME:=$HOME}/lib/x
 

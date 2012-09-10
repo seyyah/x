@@ -6,11 +6,8 @@
 #
 # 	man 19-x
 
-# Eposta adresi
-X_EMAIL='seyyah'
-# Ad ve soyad
+X_EMAIL='seyyah@bil.omu.edu.tr'
 X_NAME='Nurettin Şenyer'
-# Ekran çoğullayıcıda çalıştırılacak öntanımlı kabuk
 X_SHELL=
 
 . ${X_HOME:=$HOME}/lib/x

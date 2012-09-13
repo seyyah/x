@@ -1,0 +1,4 @@
+#!/bin/bash
+shelr record
+shelr push last
+read -p "Pause...."

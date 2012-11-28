@@ -66,7 +66,10 @@
 	remote = origin
 	merge = refs/heads/master
 [user]
-	email = seyyah@bil.omu.edu.tr
 	name = Nurettin Şenyer
+	email = seyyah@bil.omu.edu.tr
 [github]
 	user = seyyah
+	gist-oauth-token = 9f661684d726794cff31b4e2ece68b80
+[http]
+	sslVerify = false

@@ -5,3 +5,4 @@
 " baştaki '#' karakterini kaldırın.
 
 " #Bundle: git://github.com/vim-scripts/<EKLENTİ ADI>.git
+Bundle: git://github.com/aperezdc/vim-template.git
